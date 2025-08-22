@@ -1,0 +1,25 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Backup files
+*~
+*.bak
+*.backup
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated PDFs (keep only final ones in /docs)
+*.pdf
+!docs/*.pdf
