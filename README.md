@@ -26,15 +26,17 @@ This repo is intended as a **research and portfolio reference** – it provides 
 
 ## 📂 Repository Structure
 
-📦 **hamownia-pcb-docs**
-┣ 📂 `docs/`       — LaTeX source files and the compiled PDF documentation
-┣ 📂 `diagrams/`   — System architecture, pinouts, and block diagrams
-┣ 📂 `schematics/` — Exported PCB schematics (PDF/images)
-┣ 📂 `examples/`   — STM32 firmware snippets and hardware test implementations
-┣ 📂 `references/` — Component datasheets, manuals, and application notes
-┣ 📜 `.gitignore`  — Standard ignore rules for LaTeX builds and backups
-┣ 📜 `LICENSE`     — Open-source license terms
-┗ 📜 `README.md`   — You are here
+## 📂 Repository Structure
+
+📦 **hamownia-pcb-docs**<br>
+┣ 📂 `docs/` — LaTeX source files and the compiled PDF documentation<br>
+┣ 📂 `diagrams/` — System architecture, pinouts, and block diagrams<br>
+┣ 📂 `schematics/` — Exported PCB schematics (PDF/images)<br>
+┣ 📂 `examples/` — STM32 firmware snippets and hardware test implementations<br>
+┣ 📂 `references/` — Component datasheets, manuals, and application notes<br>
+┣ 📜 `.gitignore` — Standard ignore rules for LaTeX builds and backups<br>
+┣ 📜 `LICENSE` — Open-source license terms<br>
+┗ 📜 `README.md` — You are here
 
 ---
 
