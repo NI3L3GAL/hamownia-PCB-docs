@@ -29,7 +29,7 @@ This repo is intended as a **research and portfolio reference** – it provides 
 ## 📂 Repository Structure
 
 📦 **hamownia-pcb-docs**<br>
-┣ 📂 `docs/` — LaTeX source files and the compiled PDF documentation<br>
+┣ 📂 `docs/` — LaTeX compiled PDF documentation<br>
 ┣ 📂 `diagrams/` — System architecture, pinouts, and block diagrams<br>
 ┣ 📂 `schematics/` — Exported PCB schematics (PDF/images)<br>
 ┣ 📂 `examples/` — STM32 firmware snippets and hardware test implementations<br>
@@ -42,8 +42,7 @@ This repo is intended as a **research and portfolio reference** – it provides 
 
 ## 📑 Documentation
 The complete PCB documentation (schematic breakdown, PCB stackup, and assembly instructions) is available in [`docs/`](docs/).  
-- Main PDF: `hamownia_with_style.pdf`  
-- Source: `hamownia_with_style.tex`
+- Main PDF: `hamownia_with_style.pdf`
 
 ---
 
