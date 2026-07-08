@@ -26,8 +26,6 @@ This repo is intended as a **research and portfolio reference** – it provides 
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 📦 **hamownia-pcb-docs**<br>
 ┣ 📂 `docs/` — LaTeX compiled PDF documentation<br>
 ┣ 📂 `diagrams/` — System architecture, pinouts, and block diagrams<br>
